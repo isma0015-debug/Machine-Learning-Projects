@@ -1,5 +1,5 @@
 ## Project information
-***Category:*** Classification problem
+***Category:*** Classification problem     
 ***Goal:*** Predict if a loan application will be accepted by the bank
 
 ## What is this project about ?
