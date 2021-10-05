@@ -9,8 +9,10 @@ The objective is to predict whether a loan application will be accepted in order
 ## Intro
 In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.
   
-This notebook is to predict which of the customers will have their loan approved.
-
+This notebook is to predict which of the customers will have their loan approved.  
+Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data and  xgboost, & scikit-learn libraries for machine learning.
+   
+And in the end, to predict whether the loan applicant can replay the loan or not using voting ensembling techniques of combining the predictions from multiple machine learning algorithms.
 
 ## Major observation from the data
 
